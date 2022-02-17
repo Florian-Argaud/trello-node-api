@@ -1,5 +1,5 @@
 {
-    "name": "trello-node-api",
+    "name": "oswedev-trello-node-api",
     "version": "0.0.9",
     "description": "Trello Node API wrapper",
     "keywords": [
@@ -25,16 +25,16 @@
         "trello-typescript",
         "trello-es6"
     ],
-    "homepage": "https://github.com/bhushankumarl/trello-node-api",
+    "homepage": "https://github.com/Florian-Argaud/trello-node-api",
     "author": "Bhushankumar Lilapara<bhushankumar.lilapara@gmail.com>",
     "contributors": [
         "Bhushankumar Lilapara (bhushankumar.lilapara@gmail.com)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/bhushankumarl/trello-node-api"
+        "url": "https://github.com/Florian-Argaud/trello-node-api"
     },
-    "bugs:": "https://github.com/bhushankumarl/trello-node-api/issues",
+    "bugs:": "https://github.com/Florian-Argaud/trello-node-api/issues",
     "engines": {
         "node": ">=4"
     },
