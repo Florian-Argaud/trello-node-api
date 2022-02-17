@@ -100,6 +100,8 @@ declare class TrelloChecklist {
 
     searchField(checklistId: string, fieldName: string): Promise<any>;
 
+    createItems(checklistId: string, params: any): Promise<any>;
+
     update(checklistId: string, params: any): Promise<any>;
 
     del(checklistId: string): Promise<any>;
